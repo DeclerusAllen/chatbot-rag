@@ -1,2 +1,2 @@
 # chatbot-rag
-Formation sur creation Chatbot
+Ce Project a pour but  d'implementer  un chatbot en se basant sur l'architecture RAG.
